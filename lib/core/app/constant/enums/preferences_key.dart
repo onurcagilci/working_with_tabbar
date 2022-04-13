@@ -1,0 +1,1 @@
+enum PreferencesKey {userInfo, token}

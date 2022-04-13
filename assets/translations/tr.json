@@ -1,0 +1,28 @@
+{
+  "hello": "Merhaba",
+  "dashboard" : "Ana sayfa",
+  "createAccount": "Hesap Oluştur",
+  "signUpInfo": "Sisteme giriş yapabilmeniz için kayıt olmanız gerekmektedir.",
+  "loginReWelcome": "Tekrar Hoşgeldin",
+  "password": "Şifre",
+  "rePassword":"Şifre Tekrar",
+  "loginInfo": "Giriş yapabilmeniz için sisteme kayıtlı email adresinizi ve şifrenizi giriniz.",
+  "rememberMe": "Beni Hatırla",
+  "forgotPassword": "Şifremi Unuttum",
+  "login": "Giriş Yap",
+  "register": "Kayıt Ol",
+  "noAccountInfo": "Hesabınız yok mu?",
+  "emailPlaceholder": "Email adresiniz",
+  "email": "Email",
+  "beforeOnboard": "Önceki",
+  "afterOnboard": "Sonraki",
+  "onBoardignMainTitle1": "Rakiplerinizden Haberdar Olun",
+  "onBoardignMainTitle2": "Hızınıza Hız Katın",
+  "onBoardignMainTitle3": "Anında Maliyet Hesaplama",
+  "onBoardingText1": "Ürününüz Buybox sıralamasını  kaybettiğinde anında bildirim alın",
+  "onBoardingText2": "Siz müdahale etmeden kâr marjınızı koruyacak şekilde sistem ürün fiyatınızı güncellesin",
+  "onBoardingText3": "Her ürün için ne kadar kârınızın olduğunu her seferinde siz hesaplamadan biz hesaplayalım."
+
+
+
+}
